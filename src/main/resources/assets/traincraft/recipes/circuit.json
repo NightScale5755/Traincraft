@@ -1,0 +1,23 @@
+{
+  "type": "traincraft:trainworkbench",
+  "pattern": [
+    "xxx",
+    "rpr",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "traincraft:fine_copper_wire"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    },
+    "p": {
+      "type": "forge:ore_dict",
+      "ore": "itemPlastic"
+    }
+  },
+  "result": {
+    "item": "traincraft:circuit",
+  }
+}

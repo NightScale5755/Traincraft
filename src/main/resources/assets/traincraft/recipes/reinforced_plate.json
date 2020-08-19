@@ -1,0 +1,23 @@
+{
+  "type": "traincraft:trainworkbench",
+  "pattern": [
+    "aaa",
+    "xxx",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "traincraft:fiberglass_plate"
+    },
+    "x": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    },
+    "b": {
+      "item": "minecraft:clay_ball"
+    }
+  },
+  "result": {
+    "item": "traincraft:reinforced_plate"
+  }
+}

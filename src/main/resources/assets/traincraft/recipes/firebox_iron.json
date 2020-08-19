@@ -1,0 +1,21 @@
+{
+  "type": "traincraft:trainworkbench",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "a": {
+      "type": "forge:ore_dict",
+      "ore": "ingotIron"
+    }
+  },
+  "result": {
+    "item": "traincraft:firebox_iron",
+    "count": 2
+  }
+}

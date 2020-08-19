@@ -1,0 +1,23 @@
+{
+  "type": "traincraft:trainworkbench",
+  "pattern": [
+    "aaa",
+    "bbb",
+    "ccc"
+  ],
+  "key": {
+    "a": {
+      "item": "traincraft:piston"
+    },
+    "b": {
+      "item": "traincraft:cylinder"
+    },
+    "c": {
+      "item": "traincraft:camshaft"
+    }
+  },
+  "result": {
+    "item": "traincraft:engine_diesel",
+    "count": 2
+  }
+}

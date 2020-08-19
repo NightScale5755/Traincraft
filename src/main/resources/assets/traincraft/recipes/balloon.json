@@ -1,0 +1,17 @@
+{
+  "type": "traincraft:trainworkbench",
+  "pattern": [
+    "aaa",
+    "a a",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "type": "forge:ore_dict",
+      "ore": "wool"
+    }
+  },
+  "result": {
+    "item": "traincraft:balloon"
+  }
+}

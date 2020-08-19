@@ -1,0 +1,21 @@
+{
+  "type": "traincraft:trainworkbench",
+  "pattern": [
+    " a ",
+    " b ",
+    "   "
+  ],
+  "key": {
+    "a": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "traincraft:piston",
+    "count": 3
+  }
+}

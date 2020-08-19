@@ -1,0 +1,22 @@
+{
+  "type": "traincraft:trainworkbench",
+  "pattern": [
+    "a  ",
+    "bc ",
+    "   "
+  ],
+  "key": {
+    "a": {
+      "item": "traincraft:steel_chimney"
+    },
+    "b": {
+      "item": "traincraft:boiler_steel"
+    },
+    "c": {
+      "item": "traincraft:steel_firebox"
+    }
+  },
+  "result": {
+    "item": "traincraft:engine_steam"
+  }
+}

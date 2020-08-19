@@ -1,0 +1,22 @@
+{
+  "type": "traincraft:trainworkbench",
+  "pattern": [
+    "   ",
+    "a a",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    },
+    "a": {
+      "type": "forge:ore_dict",
+      "ore": "ingotIron"
+    }
+  },
+  "result": {
+    "item": "traincraft:steel_frame",
+    "count": 2
+  }
+}

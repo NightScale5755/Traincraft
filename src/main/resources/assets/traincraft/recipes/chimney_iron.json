@@ -1,0 +1,18 @@
+{
+  "type": "traincraft:trainworkbench",
+  "pattern": [
+    "x x",
+    "x x",
+    "x x"
+  ],
+  "key": {
+    "x": {
+      "type": "forge:ore_dict",
+      "ore": "ingotIron"
+    }
+  },
+  "result": {
+    "item": "traincraft:chimney_iron",
+    "count": 2
+  }
+}

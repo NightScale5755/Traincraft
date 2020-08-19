@@ -1,0 +1,18 @@
+{
+  "type": "traincraft:trainworkbench",
+  "pattern": [
+    "   ",
+    "xxx",
+    "   "
+  ],
+  "key": {
+    "x": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    }
+  },
+  "result": {
+    "item": "traincraft:camshaft",
+    "count": 3
+  }
+}

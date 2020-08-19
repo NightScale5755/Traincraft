@@ -1,0 +1,21 @@
+{
+  "type": "traincraft:trainworkbench",
+  "pattern": [
+    "aaa",
+    "bbb",
+    "aaa"
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:water_bucket"
+    },
+    "a": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    }
+  },
+  "result": {
+    "item": "traincraft:boiler_steel",
+    "count": 2
+  }
+}

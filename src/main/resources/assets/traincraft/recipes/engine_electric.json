@@ -1,0 +1,23 @@
+{
+  "type": "traincraft:trainworkbench",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "type": "forge:ore_dict",
+      "ore": "ingotIron"
+    },
+    "b": {
+      "item": "traincraft:fine_copper_wire"
+    },
+    "c": {
+      "item": "traincraft:circuit"
+    }
+  },
+  "result": {
+    "item": "traincraft:engine_electric"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "traincraft:trainworkbench",
+  "pattern": [
+    "xxx",
+    "xax",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "type": "forge:ore_dict",
+      "ore": "ingotCopper"
+    },
+    "a": {
+      "type": "forge:ore_dict",
+      "ore": "itemPlastic"
+    }
+  },
+  "result": {
+    "item": "traincraft:fine_copper_wire",
+    "count": 6
+  }
+}

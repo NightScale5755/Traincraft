@@ -1,0 +1,24 @@
+{
+  "type": "traincraft:trainworkbench",
+  "pattern": [
+    "aba",
+    "bab",
+    "cbc"
+  ],
+  "key": {
+    "a": {
+      "type": "forge:ore_dict",
+      "ore": "itemPlastic"
+    },
+    "b": {
+      "item": "traincraft:graphite"
+    },
+    "c": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "result": {
+    "item": "traincraft:fiberglass_plate",
+    "count": 16
+  }
+}

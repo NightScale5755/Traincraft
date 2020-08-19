@@ -1,0 +1,18 @@
+{
+  "type": "traincraft:trainworkbench",
+  "pattern": [
+    "   ",
+    "x x",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "type": "forge:ore_dict",
+      "ore": "plankWood"
+    }
+  },
+  "result": {
+    "item": "traincraft:frame_wood",
+    "count": 2
+  }
+}
